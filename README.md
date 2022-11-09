@@ -1,8 +1,8 @@
 # LAB_Timer_InputCaputre_Ultrasonic
 
-### LAB : Stepper Motor
+### LAB : Timer InputCaputre Ultrasonic
 
-**Date:** 2022.11.03
+**Date:** 2022.11.10
 
 **Author/Partner:** Heo Dabin/ Hwang Seungeon 
 
